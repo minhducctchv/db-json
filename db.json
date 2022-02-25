@@ -1,16 +1,22 @@
 {
-  "posts":[
-    {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+  "data": [
     {
       "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "name": "",
+      "date": "",
+      "level": null,
+      "status": null,
+      "minute": null,
+      "pageNumber": null,
+      "bookName": "",
+      "note": ""
+    }
+  ],
+  "book": [
+    {
+      "id": 0,
+      "name": "",
+      "note": ""
     }
   ]
 }
